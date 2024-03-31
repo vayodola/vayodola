@@ -12,7 +12,7 @@ I am a Mechanical Engineering graduate transitioning into Computer Science at Sw
 
 ## Education
 
-- **MSc in Computer Science** - Swansea University (2023 - Current, Expected Graduation: July 2024)
+- **Masters in Computer Science** - Swansea University (2023 - Current, Expected Graduation: July 2024)
 - **Bachelors in Mechanical Engineering** - Swansea University (2020 - 2023)
 - **A Levels** - Haringey 6th Form, London (2018-2020): Biology B, Physics A, Mathematics A
 - **GCSE's** - St Aloysius RC College, London (2014-2019): Mathematics, English, Physics, Chemistry, Biology, Geography, Graphic Design, French (Grades of level 5-8)
