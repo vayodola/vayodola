@@ -1,0 +1,16 @@
+theme: minima
+title: My Portfolio
+description: >- # this will include newlines to ensure it doesn't get too long
+  This is a description of your site to show up in search engine results.
+author: Vincent Ayodola
+email: vayodola@gmail.com
+
+# Optional settings
+show_downloads: true
+google_analytics: UA-00000000-0 # Replace with your Google Analytics tracking ID if you have one.
+
+# Social Media settings (optional)
+github_username:  vayodola
+
+# Build settings
+markdown: kramdown
