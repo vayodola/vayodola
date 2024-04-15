@@ -67,4 +67,4 @@ In this section, I present examples of my photography work, focusing on my abili
 
 - Email: [vayodola@googlemail.com](mailto:vayodola@googlemail.com)
 - LinkedIn: [https://www.linkedin.com/in/vincent-ayodola-0a488a167/](#)
-- Portfolio: [https://tobii.format.com/]
+- Portfolio: [https://shotbytobii.com/]
